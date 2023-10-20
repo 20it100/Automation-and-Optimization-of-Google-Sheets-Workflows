@@ -9,12 +9,12 @@ from googleapiclient.http import MediaIoBaseDownload
 
 
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-CLIENT_SECRET_FILE = 'C:\\Users\\patel\\OneDrive - Infocusp Innovations\\Desktop\\MongoDB Test\\Project-CMS\\secret_authentication_final.json'
+CLIENT_SECRET_FILE = ''
 TOKEN_PICKLE_FILE = 'token.pickle'
 MIME_TYPE_WORD = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
-AWS_ACCESS_KEY_ID = 'AKIA454LD5OMOX57C4PM'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
 AWS_REGION_NAME = 'us-east-1'
 S3_BUCKET_NAME = '1test1017'
 
